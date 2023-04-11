@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Atividade_11-04\bin\Debug\net6.0\Atividade_11-04.exe
+C:\Users\LAB4\Desktop\Atividade_11-04\bin\Debug\net6.0\Atividade_11-04.deps.json
+C:\Users\LAB4\Desktop\Atividade_11-04\bin\Debug\net6.0\Atividade_11-04.runtimeconfig.json
+C:\Users\LAB4\Desktop\Atividade_11-04\bin\Debug\net6.0\Atividade_11-04.dll
+C:\Users\LAB4\Desktop\Atividade_11-04\bin\Debug\net6.0\Atividade_11-04.pdb
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.dll
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\refint\Atividade_11-04.dll
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.pdb
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\Atividade_11-04.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Atividade_11-04\obj\Debug\net6.0\ref\Atividade_11-04.dll

@@ -1,0 +1,15 @@
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.csproj.AssemblyReference.cache
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.AssemblyInfoInputs.cache
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.AssemblyInfo.cs
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Produto.PoliHera\bin\Debug\net7.0\Produto.PoliHera.exe
+C:\Users\LAB4\Produto.PoliHera\bin\Debug\net7.0\Produto.PoliHera.deps.json
+C:\Users\LAB4\Produto.PoliHera\bin\Debug\net7.0\Produto.PoliHera.runtimeconfig.json
+C:\Users\LAB4\Produto.PoliHera\bin\Debug\net7.0\Produto.PoliHera.dll
+C:\Users\LAB4\Produto.PoliHera\bin\Debug\net7.0\Produto.PoliHera.pdb
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.dll
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\refint\Produto.PoliHera.dll
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.pdb
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\Produto.PoliHera.genruntimeconfig.cache
+C:\Users\LAB4\Produto.PoliHera\obj\Debug\net7.0\ref\Produto.PoliHera.dll
